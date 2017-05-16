@@ -1,1 +1,9 @@
-This is a test file!
+1. the gan zoo
+http://github.com/hindupuravinash/the-gan-zoo
+
+2. How to train a GAN?
+https://github.com/soumith/ganhacks
+
+3. Super-Resolution.Benchmark
+https://github.com/huangzehao/Super-Resolution.Benckmark
+
